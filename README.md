@@ -9,6 +9,19 @@ This project is built using **Flutter** and the **Material 3** design system, ad
 
 ---
 
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cansuengineer/cat_match_app/main/assets/page1.png" width="22%" style="margin: 0 22px;"   &nbsp;&nbsp; />
+  <img src="https://raw.githubusercontent.com/cansuengineer/cat_match_app/main/assets/page2.png" width="22%" style="margin: 0 22px;"   &nbsp;&nbsp;/>
+
+</p>
+
+> Note: Make sure to add these images to your repository under the `assets/` folder and update file names if necessary.
+
+---
+
 ## ✨ Features
 
 * **Breed of the Day (Hero Card):** Showcases a featured cat breed daily with a dynamic cover image, quick description, and a call-to-action button.
