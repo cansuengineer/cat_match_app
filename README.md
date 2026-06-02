@@ -14,7 +14,7 @@ This project is built using **Flutter** and the **Material 3** design system, ad
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cansuengineer/cat_match_app/main/assets/page1.png" width="24%" style="margin: 0 22px;"   &nbsp;&nbsp; />
-  <img src="https://raw.githubusercontent.com/cansuengineer/cat_match_app/main/assets/page2.png" width="24%" style="margin: 0 22px;"   &nbsp;&nbsp;/>
+  <img src="https://raw.githubusercontent.com/cansuengineer/cat_match_app/main/assets/page2.png" width="25%" style="margin: 0 22px;"   &nbsp;&nbsp;/>
 
 </p>
 
